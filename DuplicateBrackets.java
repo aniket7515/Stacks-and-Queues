@@ -17,7 +17,7 @@ public class DuplicateBrackets {
                 }else{
                     while(st.peek()!='('){
                         st.pop();
-                    }
+                    }st.pop();
                 }
             }else{
                 st.push(ch);
