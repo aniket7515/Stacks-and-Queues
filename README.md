@@ -4,3 +4,5 @@ Stacks and Queues Practise Questions
 Duplicate Brackets
 <br/>
 Balanced Brackets
+<br/>
+Next Greater element
