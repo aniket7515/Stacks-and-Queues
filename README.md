@@ -6,3 +6,5 @@ Duplicate Brackets
 Balanced Brackets
 <br/>
 Next Greater element
+<br/>
+Stack in Built examples
